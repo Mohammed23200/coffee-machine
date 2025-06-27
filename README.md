@@ -52,4 +52,5 @@ Make sure all files are in the same directory. Terminal only.
 🧑‍💻 My GitHub Profile: https://github.com/Mohammed23200
 
 📁 This Project Repo:https://github.com/Mohammed23200/coffee-machine
+🎉 linkedIn post :https://www.linkedin.com/posts/mohammed-gamal-4012122b5_100daysofcode-python-pythonprojects-activity-7344398036388724737-Gkuj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEusCMEBlqA5l7VNDV6ynoKsXvO5Jq7ixNA
 
