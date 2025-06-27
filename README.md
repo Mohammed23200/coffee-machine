@@ -49,7 +49,7 @@ Make sure all files are in the same directory. Terminal only.
 
 🧠 Based on: Dr. Angela Yu's #100DaysOfCode
 
-🧑‍💻 My GitHub Profile: YourGitHubUsername
+🧑‍💻 My GitHub Profile: https://github.com/Mohammed23200
 
-📁 This Project Repo: Coffee Machine Repo
+📁 This Project Repo:https://github.com/Mohammed23200/coffee-machine
 
